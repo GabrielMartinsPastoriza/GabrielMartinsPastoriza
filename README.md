@@ -5,5 +5,4 @@
 - 📝 DIO Campus Expert, Class 9
 - 👁  Blue Team Professional - SOC
 - ⚡ Fun fact: Car and racing lover
-- Você pode me encontrar no [Linkedin](www.linkedin.com/in/gabrielgideonmartins), vai ser um prazer compartilhar conhecimento.
-
+- You can find me on [Linkedin](www.linkedin.com/in/gabrielgideonmartins), it will be a pleasure to share knowledge.
