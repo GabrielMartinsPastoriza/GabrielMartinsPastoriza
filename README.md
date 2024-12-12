@@ -1,4 +1,4 @@
-### Hi there 👋, I'm [Gide0n](https://https://github.com/GabrielMartinsPastoriza) 👨‍💻
+### Hi there 👋, I'm [Gide0n](https://github.com/GabrielMartinsPastoriza) 👨‍💻
 
 <br />
 
