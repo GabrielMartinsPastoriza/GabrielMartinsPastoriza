@@ -8,7 +8,7 @@
 
 <br />
 
-<a href="www.linkedin.com/in/gabrielgideonmartins/">
+<a href="https://www.linkedin.com/in/gabrielgideonmartins/">
   <img align="left" alt="Gabriel Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
