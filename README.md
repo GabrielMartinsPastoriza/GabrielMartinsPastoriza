@@ -1,4 +1,4 @@
-### Hi there 👋, I'm [Gide0n](https://github.com/GabrielMartinsPastoriza) 👨‍💻
+### Olá a todos! 👋, Eu sou [Gide0n](https://github.com/GabrielMartinsPastoriza) 👨‍💻
 
 <br />
 
@@ -20,18 +20,19 @@
 <br/>
 
 <p>
-Hello, my name is Gabriel Martins. I am a blue team information security professional looking to transition to the red team field. I really enjoy developing automation scripts, and in my free time, I like playing FPS games.
+Olá, bem vindo ao meu perfil, sou Gabriel Martins, profissional de segurança da informação com experiência em SOC, pesquisador nas áreas de segurança da informação no grupo Ânima Educação. Meus conhecimentos englobam resposta à detecções, análise de logs, produção de campanhas de phishing, pentest WEB e entre outros. Atualmente tenho me dedicado a Análise Forense e resposta a incidentes.
 </p>
 
-### ✨ Quick Facts
+### ✨ Sobre mim
 
-- 🟩 Generation Caldeira 2023 Student - Java Back-End Development
-- 🎯 Student of Offensive Security and Cybersecurity Operations, Class 7 – WSS Security
-- 📝 DIO Campus Expert, Class 9
-- 👁  Blue Team Professional - SOC
-- ⚡ Fun fact: Car and racing lover
+- 🟩 Geração Caldeira 2023, Desenvolvimento Back-End em Java
+- 🎯 Percurso em Segurança Ofensiva e Operações de Segurança, Turma 7 – WSS Security
+- 📝 DIO Campus Expert, Turma 9
+- 👁  Analista de Segurança JR - SOC
+-  Pós-graduando em Investigações Digitais - WB Educação
+- ⚡ Fun fact: GearHead
 
-### 🛠️ Knowledge, technologies and interests:
+### 🛠️ Conhecimentos, tecnologias e interesses:
 
 ![RedHat](https://img.shields.io/badge/-RedHat-red?style=flat-square&logo=redhat)
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-blue?style=flat-square&logo=googlecloud)
