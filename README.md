@@ -12,7 +12,7 @@
   <img align="left" alt="Gabriel Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
-<a href="mailto:gabrielmartinspastoriza3266@gmail.com">
+<a href="mailto:hd.gabriel.business@gmail.com">
   <img align="left" alt="Gabriel's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 
