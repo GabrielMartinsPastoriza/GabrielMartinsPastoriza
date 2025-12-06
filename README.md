@@ -20,7 +20,7 @@
 <br/>
 
 <p>
-Olá, bem vindo ao meu perfil, sou Gabriel Martins, profissional de segurança da informação com experiência em SOC, pesquisador nas áreas de segurança da informação no grupo Ânima Educação. Meus conhecimentos englobam resposta à detecções, análise de logs, produção de campanhas de phishing, pentest WEB e entre outros. Atualmente tenho me dedicado a Análise Forense e resposta a incidentes.
+Olá, bem vindo ao meu perfil, sou Gabriel Martins, profissional de segurança da informação com experiência em SOC e atualmente atuo em operações de CTI como Threat Hunter.
 </p>
 
 ### ✨ Sobre mim
